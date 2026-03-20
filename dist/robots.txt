@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Disallow: /_astro/
+Disallow: /fonts/
+
+Sitemap: https://blog.qwqaqwqso.us.kg/sitemap-index.xml
