@@ -28,12 +28,18 @@
         "name": "Email",
         "icon": "icon-mail",
         "url": "mailto:qwqaqwqso@outlook.com",
-        "color": "rgb(17, 94, 163)"
+        "color": "rgb(159, 214, 242)"
       },
       {
         "name": "Bilibili",
         "icon": "icon-bilibili",
         "url": "https://space.bilibili.com/3546863703689764",
+        "color": "rgb(6, 163, 215)"
+      },
+      {
+        "name": "Steam",
+        "icon": "icon-steam",
+        "url": "https://steamcommunity.com/profiles/76561199736935714/",
         "color": "rgb(6, 163, 215)"
       }
     ],
