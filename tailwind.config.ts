@@ -6,6 +6,7 @@ const config: Config = {
   theme: {
     fontFamily: {
       sans: [
+        '"Maple Mono Better Chinese NF CN"',
         '"Noto Sans SC"',
         '"Source Han Sans SC"',
         'sans-serif',
@@ -14,8 +15,8 @@ const config: Config = {
         '"Segoe UI Symbol"',
         '"Noto Color Emoji"',
       ],
-      serif: ['"Noto Serif SC"', '"Source Han Serif SC"', '"Source Han Serif"', 'serif'],
-      mono: ['"JetBrains Mono"', '"Fira Code"', 'Consolas', 'monospace'],
+      serif: ['"Maple Mono Better Chinese NF CN"', '"Noto Serif SC"', '"Source Han Serif SC"', '"Source Han Serif"', 'serif'],
+      mono: ['"Maple Mono Better Chinese NF CN"', '"JetBrains Mono"', '"Fira Code"', 'Consolas', 'monospace'],
     },
     fontSize: {
       xs: '0.75rem',
