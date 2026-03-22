@@ -1,20 +1,15 @@
-# Gyoza
+# 我的私人博客
 
-Gyoza is a static blog template built with Astro and React.
 
 ![astro version](https://img.shields.io/badge/astro-4.6-red)
 ![node version](https://img.shields.io/badge/node-18.18-green)
 
-Demo Site:
+Site:
 
-- [gyoza.lxchapu.com](https://gyoza.lxchapu.com)
-- [www.lxchapu.com](https://www.lxchapu.com)
+- [blog.qwqaqwqso.us.kg](https://blog.qwqaqwqso.us.kg)
 
 Enjoy it!
 
-## 📷 Screenshots
-
-![Preview](https://s2.loli.net/2024/05/06/A9rzC3Uym7RwdQc.webp)
 
 ## 🎉 Features
 
